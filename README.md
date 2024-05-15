@@ -1,5 +1,5 @@
 # EM-Lanyard
-"The Ethnomethodologist's Lanyard" - a wearable device comprising a Raspberry Pi Zero and an inky pHAT e-ink display, which randomly cycles through messages that are designed to display, in text, what a person is (or will be) doing. The wittnessable, accountable features of social action are made instructive, gamified, breached.
+"The Ethnomethodologist's Lanyard" - a wearable device for "undisciplining the world", comprising a Raspberry Pi Zero and an inky pHAT e-ink display, which randomly cycles through messages that are designed to display, in text, what a person is (or will be) doing. The wittnessable, accountable features of social action are made instructive, gamified, breached.
 
 Coupled with a 3D printed case to which a lanyard clip/pin can be attached, this device acts as a name badge of sorts which, depending on the situated context in which it is placed, will display intentions as instructions, such that they can be, literally, read from people. Awks and cringes ensue. But we also learn somethins about what people do in these situated contexts, and what the facilitations and tensions are in making actions so directly readable in this way might be.
 
